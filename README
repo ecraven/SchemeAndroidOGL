@@ -1,0 +1,8 @@
+Sample of an Android Application with Kawa.
+
+Edit ./make, make sure all settings at the top of the file are correct.
+
+Run
+- "./make debug" for a debug build (no obfuscation or optimisation), 
+- "./make" for an optimised and obfuscated build (using proguard)
+- "./make install" to run adb install
